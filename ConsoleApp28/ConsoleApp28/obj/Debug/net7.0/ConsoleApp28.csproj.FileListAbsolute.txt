@@ -1,0 +1,15 @@
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net7.0\ConsoleApp28.exe
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net7.0\ConsoleApp28.deps.json
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net7.0\ConsoleApp28.runtimeconfig.json
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net7.0\ConsoleApp28.dll
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net7.0\ConsoleApp28.pdb
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.AssemblyInfoInputs.cache
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.AssemblyInfo.cs
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.dll
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\refint\ConsoleApp28.dll
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.pdb
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ConsoleApp28.genruntimeconfig.cache
+C:\Users\kozha\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net7.0\ref\ConsoleApp28.dll
